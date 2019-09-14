@@ -1,5 +1,5 @@
 #!/bin/bash
-echo " By srlentest "
+echo " By sr.pentest "
 sleep 2
 echo  
 echo  "          /      \ "
